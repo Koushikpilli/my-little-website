@@ -108,4 +108,17 @@ ol.myol{
     display: inline-block;
     text-align: left;
 }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
 
+
+ 
+
+}
+.table{
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    height : 100vh;
+}
